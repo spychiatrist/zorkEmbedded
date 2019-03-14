@@ -40,6 +40,8 @@ typedef int logical;
 #define TRUE_ (1)
 #define FALSE_ (0)
 
+#define MORE_24 //force 24 line more
+
 #define abs(x) ((x) >= 0 ? (x) : -(x))
 #define min(a,b) ((a) <= (b) ? (a) : (b))
 #define max(a,b) ((a) >= (b) ? (a) : (b))

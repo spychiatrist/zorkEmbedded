@@ -1,6 +1,6 @@
 /* supp.c -- support routines for dungeon */
 
-#include <stdio.h>
+#include "stdio.h"
 
 #ifdef unix
 #include <sys/types.h>

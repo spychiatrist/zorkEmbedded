@@ -4,7 +4,7 @@
 /* ALL RIGHTS RESERVED, COMMERCIAL USAGE STRICTLY PROHIBITED */
 /* WRITTEN BY R. M. SUPNIK */
 
-#include <stdio.h>
+//#include "stdio_shim.h"
 #include "funcs.h"
 #include "vars.h"
 
